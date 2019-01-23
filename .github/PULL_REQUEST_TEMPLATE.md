@@ -38,4 +38,4 @@ Fixes #
 
 ----
 
-:black_nib: I contribute this code under [The Developer Certificate of Origin](https://developercertificate.org/) and I release this contribution under [MIT licence](../../blob/master/LICENSE.MIT.md).
+:black_nib: I contribute this code under [The Developer Certificate of Origin](../../blob/master/contributors.txt).
